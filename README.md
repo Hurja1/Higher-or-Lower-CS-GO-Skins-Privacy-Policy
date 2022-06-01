@@ -9,7 +9,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 ## Information Collection and Use
 
-The app does use third-party services that collects data for analytics.
+The app does use third-party services that may collect information used to identify you. The collected information is also used for analytics.
 
 Link to the privacy policy of third-party service providers used by the app
 
